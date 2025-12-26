@@ -117,6 +117,7 @@ A seguir, sugestões de aprimoramentos viáveis com base na estrutura atual:
 - Interface mais responsiva.
 - Modo escuro.
 - Sistema de pesquisa avançada.
+- Melhor suporte a interfaces móveis. 
 - Exportação e importação de senhas (com criptografia).
 
 ### 6.4 Funcionalidades Extras
